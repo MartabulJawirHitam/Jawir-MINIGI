@@ -8,6 +8,9 @@
 
 <h1 align="center">Getting Started</h1>
 
+> [!IMPORTANT]
+> **Disclaimer:** This cheat was developed through a collaboration between **Jawir** and **Slash**. Use at your own risk.
+
 ### Usage
 
 1. Download the latest release (`Jawir-GI.rar`).
@@ -19,9 +22,6 @@
 ---
 
 <h1 align="center">Features</h1>
-
-> [!IMPORTANT]
-> **Disclaimer:** Cheat ini dibuat atas dasar kolaborasi antara **Jawir** dan **Slash**. Gunakan dengan bijak dan risiko ditanggung sendiri.
 
 #### Player
 - **God Mode**

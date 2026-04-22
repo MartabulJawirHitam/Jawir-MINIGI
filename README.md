@@ -9,7 +9,9 @@
 <h1 align="center">Getting Started</h1>
 
 > [!IMPORTANT]
-> **Disclaimer:** This cheat was developed through a collaboration between **Jawir** and **Slash**. Use at your own risk.
+> **Disclaimer:** This cheat was developed through a collaboration between **Jawir** and **Slash**. 
+> 
+> **Note:** We have intentionally kept the feature list minimal and highly selective to help neutralize the risk of detection and prevent bans. Use at your own risk.
 
 ### Usage
 

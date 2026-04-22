@@ -37,3 +37,10 @@
 
 #### Visuals
 - **ESP**
+
+#### Hotkey Manager
+
+#### Settings
+- **Auto Load Startup**
+- **Show Acive Overlay**
+- **Save/load Config**

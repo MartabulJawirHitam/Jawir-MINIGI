@@ -16,14 +16,22 @@
 4. Launch Genshin Manually.
 5. Press the `INSERT` key to open the GUI.
 
+---
+
 <h1 align="center">Features</h1>
+
+> [!IMPORTANT]
+> **Disclaimer:** Cheat ini dibuat atas dasar kolaborasi antara **Jawir** dan **Slash**. Gunakan dengan bijak dan risiko ditanggung sendiri.
 
 #### Player
 - **God Mode**
 - **Inf. Stamina**
+- **Multi Hit**
 - **No Skill CD**
-- **Inf. Energy**
+- **Inf. Burst Energy**
 - **No Sprint CD**
+- **Instant Bow Charge**
+- **Auto Walk**
 
 #### Visuals
 - **ESP**

@@ -6,12 +6,12 @@
  <a href="https://discord.gg/dV9j8zTp"><img src="https://img.shields.io/discord/1449064327494635573?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
 </p>
 
-<h1 align="center">Getting Started</h1>
-
 > [!IMPORTANT]
 > **Disclaimer:** This cheat was developed through a collaboration between **Jawir** and **Slash**. 
 > 
 > **Note:** We have intentionally kept the feature list minimal and highly selective to help neutralize the risk of detection and prevent bans. Use at your own risk.
+
+<h1 align="center">Getting Started</h1>
 
 ### Usage
 

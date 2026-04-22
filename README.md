@@ -12,9 +12,9 @@
 
 1. Download the latest release (`Jawir-GI.rar`).
 2. Extract the file to your desired folder.
-3. Launch the Genshin.
-4. Launch Jawir.
-5. Press the `F1` key to open the GUI.
+3. Launch Jawir.
+4. Launch Genshin Manually.
+5. Press the `INSERT` key to open the GUI.
 
 <h1 align="center">Features</h1>
 

@@ -15,7 +15,7 @@
 
 ## Usage
 
-1. Download the latest release ("Jawir-GI.rar").
+1. Download the latest release (`Jawir-GI.rar`).
 2. Extract the file to your desired folder.
 3. Launch the application.
 4. Start the game manually.
@@ -38,6 +38,7 @@
 - Auto Challenge
 - Skip Cutscene
 - Auto Talk
+- Skip Cutscene
 - Unlock All Waypoint
 
 ## Teleport
